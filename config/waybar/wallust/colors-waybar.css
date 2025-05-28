@@ -1,0 +1,21 @@
+@define-color foreground #6C7580; /* Текст (светло-серый для контраста) */
+@define-color background #12121A; /* Фон (тёмно-чёрный) */
+@define-color background-alt rgba(18, 18, 26, 0.25); /* Полупрозрачный фон */
+@define-color cursor #9482C9; /* Цвет курсора (яркий фиолетовый) */
+
+@define-color color0 #1A1929; /* Base (тёмно-чёрный) */
+@define-color color1 #1A1929; /* Mantle (чуть светлее base) */
+@define-color color2 #1A1929; /* Crust / Inactive border (более светлый серо-чёрный) */
+@define-color color3 #1A1929; /* Yellow → сменили на светло-серый */
+@define-color color4 #1A1929; /* Green → сменили на тёмно-синий */
+@define-color color5 #1A1929; /* Red → сменили на фиолетовый */
+@define-color color6 #1A1929; /* Blue → сменили на тёмно-синий */
+@define-color color7 #1A1929; /* Subtext1 → сменили на серо-синий */
+@define-color color8 #1A1929; /* Subtext0 → сменили на светло-серый */
+@define-color color9 #1A1929; /* Orange → сменили на фиолетовый */
+@define-color color10 #1A1929; /* Pink → сменили на розово-фиолетовый */
+@define-color color11 #1A1929; /* Teal → сменили на голубой */
+@define-color color12 #1A1929; /* Saturated blue → сменили на тёмно-синий */
+@define-color color13 #1A1929; /* Bright yellow → сменили на фиолетовый */
+@define-color color14 #1A1929; /* Bright green → сменили на тёмно-синий */
+@define-color color15 #1A1929; /* Bright red / Lighter pinkish → сменили на розово-фиолетовый */
